@@ -1,0 +1,2 @@
+This document is to test the working of custom exception wrapping an IO Exception.
+The goal is to try and fetch a particular line/word from this document and if it is unable to do so It should throw the exception as expected.
